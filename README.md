@@ -1,7 +1,8 @@
-# Tools
+# Tools and Resources
 
 * [About](#about)
 * [Active-Directory](#active-directory)
+* [Blogs](#blogs)
 * [Command-Line](#command-line)
 * [Communication](#communication)
 * [Getting Started](#getting-started)
@@ -23,6 +24,8 @@ This is a list of great tools for MacAdmins to use. Also houses some great resou
 * [CertRetriever](https://gitlab.com/Mactroll/CertRetriever) - Joel Rennich
 * [macOS LAPS (Local Administrator Password Solution)](https://github.com/joshua-d-miller/macOSLAPS) - Joshua Miller
 
+## Blogs
+
 ## Command-Line
 
 * [Aweseome Command-Line Apps](https://github.com/delahaya/awesome-command-line-apps) - GitHub
@@ -32,6 +35,9 @@ This is a list of great tools for MacAdmins to use. Also houses some great resou
 * [Xcode-tools](Xcode-Tools) Run `xcode-select --install`
 
 ## Communication
+
+[Mac Admins Slack Channel](https://macadmins.herokuapp.com)
+
 
 ## Getting Started
 
@@ -50,8 +56,14 @@ This is a list of great tools for MacAdmins to use. Also houses some great resou
 
 ## Munki
 
+* [Munki](https://github.com/munki/munki/wiki) - Greg Neagle
+* [MunkiAdmin](http://hjuutilainen.github.io/munkiadmin/) - hjuutilainen
+* [Munki]
+
 ## Packaging
 
+* [The Luggage](https://github.com/unixorn/luggage) - unixorn
+* [Make Profile Pkg](https://github.com/gregneagle/make-profile-pkg)
 * [Packages](http://s.sudre.free.fr/Software/Packages/about.html) - WhiteBox
 * [`pkgbuild`](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/pkgbuild.1.html) - Apple
 * [`productbuild`](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/productbuild.1.html) - Apple
@@ -61,6 +73,7 @@ This is a list of great tools for MacAdmins to use. Also houses some great resou
 
 ## Profiles
 
+* [Make Profile Pkg](https://github.com/gregneagle/make-profile-pkg) - Greg Neagle
 * [mcxToProfile](https://github.com/timsutton/mcxToProfile) - Tim Sutton
 * [Profile Manager](https://support.apple.com/profile-manager) - Apple
 
