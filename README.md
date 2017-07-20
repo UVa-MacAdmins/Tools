@@ -3,6 +3,8 @@
 * [About](#about)
 * [Active-Directory](#active-directory)
 * [Command-Line](#command-line)
+* [Getting Started](#getting-started)
+* [Imaging](#imaging)
 * [JAMF Pro](#jamf-pro)
 * [Munki](#munki)
 * [Packaging](#packaging)
@@ -27,6 +29,17 @@ This is a list of great tools for MacAdmins to use. Also houses some great resou
 * [ShellCheck](http://www.shellcheck.net) - ShellCheck
 * [Xcode-tools](Xcode-Tools) Run `xcode-select --install`
 
+## Getting Started
+
+* [Getting started as a Mac admin](https://grahamgilbert.com/blog/2016/05/05/getting-started-as-a-mac-admin/) - Graham Gilbert
+
+## Imaging
+R.I.P
+
+* [DeployStudio](http://www.deploystudio.com) - DeployStudio
+* [Imagr](https://github.com/grahamgilbert/imagr) - Graham Gilbert
+* 
+
 ## JAMF Pro
 
 ## Munki
@@ -41,6 +54,8 @@ This is a list of great tools for MacAdmins to use. Also houses some great resou
 ## Patch Management
 
 ## Profiles
+
+* [mcxToProfile]
 
 ## Security
 
