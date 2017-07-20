@@ -3,11 +3,13 @@
 * [About](#about)
 * [Active-Directory](#active-directory)
 * [Command-Line](#command-line)
+* [Communication](#communication)
 * [Getting Started](#getting-started)
 * [Imaging](#imaging)
 * [JAMF Pro](#jamf-pro)
 * [Munki](#munki)
 * [Packaging](#packaging)
+* [Patch Management](#patch-management)
 * [Profiles](#profiles)
 * [Security](#security)
 
@@ -29,16 +31,20 @@ This is a list of great tools for MacAdmins to use. Also houses some great resou
 * [ShellCheck](http://www.shellcheck.net) - ShellCheck
 * [Xcode-tools](Xcode-Tools) Run `xcode-select --install`
 
+## Communication
+
 ## Getting Started
 
 * [Getting started as a Mac admin](https://grahamgilbert.com/blog/2016/05/05/getting-started-as-a-mac-admin/) - Graham Gilbert
+* [Getting started as a Mac admin](https://derflounder.wordpress.com/2016/02/11/getting-started-as-a-mac-admin/) - Rich Trouton
 
 ## Imaging
-R.I.P
+
+### R.I.P
 
 * [DeployStudio](http://www.deploystudio.com) - DeployStudio
 * [Imagr](https://github.com/grahamgilbert/imagr) - Graham Gilbert
-* 
+* [JAMF Imaging](https://resources.jamf.com/documents/technical-papers/Imaging-OS-X-Computers-with-the-Casper-Suite.pdf) - JAMF Software
 
 ## JAMF Pro
 
@@ -55,10 +61,12 @@ R.I.P
 
 ## Profiles
 
-* [mcxToProfile]
+* [mcxToProfile](https://github.com/timsutton/mcxToProfile) - Tim Sutton
+* [Profile Manager](https://support.apple.com/profile-manager) - Apple
 
 ## Security
 
+* [CISOfy Lynis](https://cisofy.com/lynis/) - CISOfy
 * [DrDuh macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - DrDuh
 * [Duo](https://duo.com/docs/macos) - Duo Security
 * [filewatcher](https://github.com/m3liot/filewatcher) - m3liot
