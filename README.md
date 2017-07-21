@@ -1,3 +1,5 @@
+<center>![VirginiaLogo](https://virginia.box.com/s/2srzl9e5f8gppqepwwlwjqznmbghqblb)</center>
+
 # Tools and Resources
 
 * [About](#about)
@@ -74,6 +76,7 @@ This is a list of great tools for MacAdmins to use. Also houses some great resou
 
 * [DEPNotify](https://gitlab.com/Mactroll/DEPNotify) - Joel Rennich and Erik Gomez
 * [JAMF macOS Security Guide](https://www.jamf.com/resources/macos-security-checklist/) - JAMF Software
+* [JAMFNation User Board](https://www.jamf.com/jamf-nation/) - JAMF Software
 
 ## Munki
 
@@ -90,6 +93,7 @@ This is a list of great tools for MacAdmins to use. Also houses some great resou
 * [JAMF Composer](https://www.jamf.com/resources/composer-user-guide/) - JAMF Software
     * **Video:** [Composer for macOS and JAMF Pro](https://www.youtube.com/watch?v=EbQksUb6Pg8) - JAMF Software
 * [The Luggage](https://github.com/unixorn/luggage) - unixorn
+    * [The Luggage: An Introduction](https://grahamgilbert.com/blog/2013/08/09/the-luggage-an-introduction/) - Graham Gilbert
 * [Make Profile Pkg](https://github.com/gregneagle/make-profile-pkg) - Greg Neagle
 * [Packages](http://s.sudre.free.fr/Software/Packages/about.html) - WhiteBox
 * [`pkgbuild`](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/pkgbuild.1.html) - Apple
@@ -138,6 +142,7 @@ This is a list of great tools for MacAdmins to use. Also houses some great resou
 
 ## User Account Creation
 
-
+* [CreateUserPkg](https://github.com/MagerValp/CreateUserPkg) - Sveinbjörn Þórðarson
+* [pycreateuserpkg](https://github.com/gregneagle/pycreateuserpkg) - Greg Neagle
 
 
