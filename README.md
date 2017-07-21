@@ -1,4 +1,5 @@
-<center>![VirginiaLogo](https://virginia.box.com/s/2srzl9e5f8gppqepwwlwjqznmbghqblb)</center>
+<p align="center">
+<img align="center" src="https://virginia.box.com/s/2srzl9e5f8gppqepwwlwjqznmbghqblb" alt="VirginiaLogo" width="200"/>
 
 # Tools and Resources
 
