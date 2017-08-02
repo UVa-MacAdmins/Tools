@@ -63,7 +63,7 @@ This is a list of great tools for MacAdmins to use. Also houses some great resou
 
 ## Imaging
 
-### R.I.P
+### **R.I.P**
 
 * [AutoDMG](https://github.com/MagerValp/AutoDMG) - Sveinbjörn Þórðarson
 * [CreateOSXinstallPKG](https://github.com/munki/createOSXinstallPkg) - Greg Neagle
@@ -76,7 +76,10 @@ This is a list of great tools for MacAdmins to use. Also houses some great resou
 
 * [DEPNotify](https://gitlab.com/Mactroll/DEPNotify) - Joel Rennich and Erik Gomez
 * [JAMF macOS Security Guide](https://www.jamf.com/resources/macos-security-checklist/) - JAMF Software
+* [jamfMigrator](https://github.com/jamfprofessionalservices/JamfMigrator) - JAMF Software
 * [JAMFNation User Board](https://www.jamf.com/jamf-nation/) - JAMF Software
+* [JAMF Pro Scripts](https://github.com/jamfprofessionalservices/Jamf-Pro-Scripts) - JAMF Software
+* [macOSUpgrade](https://github.com/kc9wwh/macOSUpgrade) - JAMF Software
 
 ## Munki
 
